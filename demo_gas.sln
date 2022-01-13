@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo_gas", "demo_gas\demo_gas.csproj", "{787281C9-064F-45A6-93BB-F5A641DD572C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "D:\test\Setup\Setup.vdproj", "{482074F2-D3E2-4F13-BE16-1B270E9CF4A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787281C9-064F-45A6-93BB-F5A641DD572C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787281C9-064F-45A6-93BB-F5A641DD572C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787281C9-064F-45A6-93BB-F5A641DD572C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787281C9-064F-45A6-93BB-F5A641DD572C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482074F2-D3E2-4F13-BE16-1B270E9CF4A7}.Debug|Any CPU.ActiveCfg = Debug
+		{482074F2-D3E2-4F13-BE16-1B270E9CF4A7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3CE425F-EADF-452E-AE15-7A2070B04A89}
+	EndGlobalSection
+EndGlobal
